@@ -1,0 +1,12 @@
+[package]
+name = "dynaconf"
+version = "0.1.0"
+authors = ["Bruno Rocha <rochacbruno@gmail.com>"]
+edition = "2018"
+description = "Rust implementation of Python's dynaconf module"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = ">1.0.0"
